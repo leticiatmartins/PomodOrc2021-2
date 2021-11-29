@@ -16,6 +16,8 @@ Para realizar o trabalho, o responsável do grupo deve realizar um fork para um 
     ```bash
     cd front
     yarn install
+    yarn add react-icons
+
     cd ..
     docker-compose up --build
     ```
