@@ -1,8 +1,25 @@
 .homepageMenu {
-    background-color: red;
     position: relative;
 }
 
 .homepageTitle {
-    color: blue;
+    color:black;
+    margin-left: 432px;
+    margin-top: 63px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.play{
+    height: 40px;
+    width: 40px;
+    margin-left: 468px;
+    margin-top: 400px;
+    margin-bottom: 500px;
+
+}
+.replay{
+    height: 40px;
+    width: 40px;
+    margin-left: 64px;
+    margin-top: 400px;
+    margin-bottom: 500px;
 }
